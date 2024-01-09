@@ -9,4 +9,3 @@ This is Portfolio website based on HTML CSS  JS and it is responsive also.There 
 ![Screenshot (878)](https://github.com/waquar-az/WaquarPorfolio/assets/106869966/2a4f7d30-580d-4373-9e31-27d105a5b8e6)
 
 
-![Screenshot (877)](https://github.com/waquar-az/WaquarPorfolio/assets/106869966/a6fab4b1-847a-4f52-967b-2667e0db875a)
